@@ -14,7 +14,6 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6 pb-8 border-b-2 border-black dark:border-white">
           <div className="space-y-2">
             <div className="flex items-center gap-2">
-
               <span className="font-sans font-black text-xl tracking-tight text-black dark:text-white">
                 Yusuf Rochman Hakim
               </span>

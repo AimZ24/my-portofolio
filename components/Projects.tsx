@@ -14,7 +14,7 @@ const PROJECTS: ProjectData[] = [
     description:
     "A digital business and economics publication built to present Indonesian industry, trade, and economic stories in a clear editorial format.",
     fullOverview:
-    "Bisnara is a digital media platform focused on business, economics, industry, and international trade in Indonesia. The website was designed around a straightforward editorial experience — making important stories easy to discover, comfortable to read, and structured to feel like a serious publication rather than a typical content website.",
+    "Bisnara is a digital media platform focused on business, economics, industry, and international trade in Indonesia. The website was designed around a straightforward editorial experience, making important stories easy to discover, comfortable to read, and structured to feel like a serious publication rather than a typical content website.",
     highlights: [
     "Editorial-first interface designed for business and economic news",
     "Structured content experience across news, articles, and topic categories",
